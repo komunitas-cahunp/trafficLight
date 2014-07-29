@@ -1,0 +1,16 @@
+# these is ignoring
+
+Code/*.asm 
+Code/*.cp
+Code/*.dbg
+Code/*.dlt
+Code/*.hex
+Code/*.log
+Code/*.lst
+Code/*.mcl
+Code/*.txt
+Code/*.c.ini
+*.c.ini
+*.pdsbak
+*.entirsaif.workspace
+Images/*.png
