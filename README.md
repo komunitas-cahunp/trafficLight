@@ -1,4 +1,0 @@
-trafficLight
-============
-
-TrafficLight Repository
